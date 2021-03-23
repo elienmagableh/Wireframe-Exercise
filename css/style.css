@@ -1,0 +1,64 @@
+
+header {
+    padding: 20px;
+    text-align: center;
+}
+header h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+nav {
+    margin-bottom: 20px;
+    background-color: #333;
+    
+}
+nav ul li {
+    color: white;
+    display: inline-block;
+    padding: 15px;
+    
+}
+nav ul {
+    position: relative;
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+#left-C {
+    width: 100%;
+    float: left;
+    padding: 15px;
+}
+.card {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+.right-C{
+    float: left;
+    width: 50%;
+    padding: 15px;
+}
+.placeholder {
+    width: 100%;
+    background-color: black;
+}
+.placeholderM{
+    width: 33%;
+}
+p {
+    font-weight: bold;
+    text-align: justify;
+}
+footer {
+    clear: both;
+    padding: 20px;
+    text-align: center;
+    background-color: #ddd;
+    margin-top: 20px;
+}
+button{
+    margin:15px ;
+}
